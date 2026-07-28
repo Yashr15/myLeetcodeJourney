@@ -3,22 +3,23 @@ class Solution {
         char[] arr = s.toCharArray();
 
         int mid = arr.length / 2;
+        int[] freq = new int[26];
 
-        // Only the left half (excluding middle)
-        char[] firstHalf = new char[mid];
-
+        // Count only left half
         for (int i = 0; i < mid; i++) {
-            firstHalf[i] = arr[i];
+            freq[arr[i] - 'a']++;
         }
 
-        Arrays.sort(firstHalf);
+        int index = 0;
 
-        // Copy sorted left half back
-        for (int i = 0; i < mid; i++) {
-            arr[i] = firstHalf[i];
+        for (int i = 0; i < 26; i++) {
+            while (freq[i] > 0) {
+                arr[index] = (char) ('a' + i);
+                index++;
+                freq[i]--;
+            }
         }
 
-        // Mirror
         for (int i = 0; i < mid; i++) {
             arr[arr.length - 1 - i] = arr[i];
         }
