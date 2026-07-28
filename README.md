@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1672-richest-customer-wealth) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
