@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0682-baseball-game) |
 | [1672-richest-customer-wealth](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1672-richest-customer-wealth) |
 | [2974-minimum-number-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2974-minimum-number-game) |
 ## Matrix
@@ -36,5 +37,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2974-minimum-number-game) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
