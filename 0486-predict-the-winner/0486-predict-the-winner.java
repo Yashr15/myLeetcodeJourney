@@ -2,6 +2,7 @@ class Solution {
     public boolean predictTheWinner(int[] nums) {
 
         int n = nums.length;
+        if(n % 2 == 0) return true;
         int[][] dp = new int[n][n];
 
         for (int i = 0; i < n; i++) {
