@@ -9,7 +9,6 @@ class Solution {
                 n /= 10;
             }
         }
-        int value = elementSumOfNums - digitSumOfNums;
-        return Math.abs(value);
+        return Math.abs(elementSumOfNums - digitSumOfNums);
     }
 }
