@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0877-stone-game) |
 | [1672-richest-customer-wealth](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1672-richest-customer-wealth) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1137-n-th-tribonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
