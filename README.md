@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1137-n-th-tribonacci-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0877-stone-game) |
 | [1672-richest-customer-wealth](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2974-minimum-number-game) |
 ## Matrix
