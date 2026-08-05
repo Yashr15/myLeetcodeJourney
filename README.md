@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0657-robot-return-to-origin) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2974-minimum-number-game) |
 ## Stack
