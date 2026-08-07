@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1137-n-th-tribonacci-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
