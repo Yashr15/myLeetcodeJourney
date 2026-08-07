@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2974-minimum-number-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2974-minimum-number-game) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2974-minimum-number-game) |
+| [3731-find-missing-elements](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3345-smallest-divisible-digit-product-i) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
