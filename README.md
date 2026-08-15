@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1137-n-th-tribonacci-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0486-predict-the-winner) |
 | [0682-baseball-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0877-stone-game) |
