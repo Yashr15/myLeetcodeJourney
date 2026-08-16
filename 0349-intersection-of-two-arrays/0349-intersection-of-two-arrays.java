@@ -6,15 +6,21 @@ class Solution {
             set.add(num);
         }
 
-        int[] result = new int[Math.min(nums1.length, nums2.length)];
-        int i = 0;
+        List<Integer> list = new ArrayList<>();
 
         for (int num : nums2) {
-            if (set.remove(num)) {
-                result[i++] = num;
+            if (set.contains(num)) {
+                list.add(num);
+                set.remove(num);
             }
         }
 
-        return Arrays.copyOf(result, i);
+        int[] result = new int[list.size()];
+
+        for (int i = 0; i < list.size(); i++) {
+            result[i] = list.get(i);
+        }
+
+        return result;
     }
 }
