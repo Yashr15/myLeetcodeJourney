@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0349-intersection-of-two-arrays) |
 | [1051-height-checker](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1051-height-checker) |
 | [2974-minimum-number-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2974-minimum-number-game) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1189-maximum-number-of-balloons) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0540-single-element-in-a-sorted-array) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1189-maximum-number-of-balloons) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -135,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1051-height-checker) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
