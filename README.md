@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1189-maximum-number-of-balloons) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
