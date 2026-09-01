@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0383-ransom-note) |
 | [0657-robot-return-to-origin](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1189-maximum-number-of-balloons) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0383-ransom-note) |
 | [1051-height-checker](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1189-maximum-number-of-balloons) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1189-maximum-number-of-balloons) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
