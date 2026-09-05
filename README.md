@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1189-maximum-number-of-balloons) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1137-n-th-tribonacci-number) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2974-minimum-number-game) |
