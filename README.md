@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2833-furthest-point-from-origin](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3019-number-of-changing-keys) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1189-maximum-number-of-balloons) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2833-furthest-point-from-origin](https://github.com/Yashr15/myLeetcodeJourney/tree/master/2833-furthest-point-from-origin) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashr15/myLeetcodeJourney/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
