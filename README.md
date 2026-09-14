@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Yashr15/myLeetcodeJourney/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Yashr15/myLeetcodeJourney/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
